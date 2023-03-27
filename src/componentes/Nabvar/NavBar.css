@@ -5,7 +5,10 @@ body{
 
 .bg-body-tertiary{
   background-color: yellow!important;
+  cursor: pointer;
 }
+
+
 header{ 
     background-color: yellow!important;
     display: flex;
@@ -18,5 +21,5 @@ header{
     text-transform: uppercase;
     color: red;
     font-family: fantasy;
+    cursor:default;
 }
-
